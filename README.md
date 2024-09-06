@@ -24,7 +24,7 @@ I am a backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - 💻: I'm an IT student in web development.
 
-- 📚: I also learn mathmatics in probability and statistics field.
+- 📚: I also learn mathematics in probability and statistics field.
 - 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]()
 ---
 
